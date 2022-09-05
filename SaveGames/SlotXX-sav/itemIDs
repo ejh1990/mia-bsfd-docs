@@ -1,4 +1,10 @@
-itemByte,catByte,itemName
+byte1Item,byte2Cat,itemName
+B9,0B,Sun Sphere (1st Layer)
+BA,0B,Scaled Umberella
+ED,0C,Rescuer Hat
+EE,0C,Agile Hat
+AD,0D,Cave Raider Jacket
+75,0E,Cave Raider Shoes
 00,0F,<notinuse>
 01,0F,<notinuse>
 02,0F,<notinuse>
@@ -83,3 +89,8 @@ itemByte,catByte,itemName
 51,0F,<notinuse>
 52,0F,<notinuse>
 53,0F,<notinuse>
+54,0F,<notinuse>
+55,0F,<notinuse>
+16,11,Lugworm
+0A,11,Small Smoke Signal
+5D,12,Hard Stone
