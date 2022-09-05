@@ -159,8 +159,23 @@ E4,10,Fishing Pole
 E5,10,Expert Fishing Pole
 E6,10,<notinuse>
 
-16,11,Lugworm
+FD,10,<cutitem#193>
+FE,10,<cutitem#194>
+FF,10,<cutitem#195>
+00,11,<cutitem#196>
+01,11,<notinuse>
+02,11,<notinuse>
+03,11,<notinuse>
+04,11,<notinuse>
+05,11,<notinuse>
+06,11,<notinuse>
+07,11,<notinuse>
+08,11,<notinuse>
+09,11,<notinuse>
+
 0A,11,Small Smoke Signal
+16,11,Lugworm
+
 
 5D,12,Hard Stone
 
