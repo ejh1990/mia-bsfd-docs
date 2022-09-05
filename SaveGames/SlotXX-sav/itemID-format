@@ -1,0 +1,4 @@
+Byte 01-01 : Item
+Byte 02-02 : Item Category
+Byte 03-04 : <unused>
+Byte 05-08 : Item Condition, FF FF FF FF for non-wearing items.
