@@ -1,0 +1,85 @@
+itemByte,catByte,itemName
+00,0F,<notinuse>
+01,0F,<notinuse>
+02,0F,<notinuse>
+03,0F,<notinuse>
+04,0F,<notinuse>
+05,0F,<notinuse>
+06,0F,<notinuse>
+07,0F,<notinuse>
+08,0F,<notinuse>
+09,0F,<notinuse>
+0A,0F,<notinuse>
+0B,0F,<notinuse>
+0C,0F,<notinuse>
+0D,0F,<notinuse>
+0E,0F,<notinuse>
+0F,0F,<notinuse>
+10,0F,<notinuse>
+11,0F,<notinuse>
+12,0F,<notinuse>
+13,0F,<notinuse>
+14,0F,<notinuse>
+15,0F,<notinuse>
+16,0F,<notinuse>
+17,0F,<notinuse>
+18,0F,<notinuse>
+19,0F,<notinuse>
+1A,0F,<notinuse>
+1B,0F,<notinuse>
+1C,0F,<notinuse>
+1D,0F,<notinuse>
+1E,0F,<notinuse>
+1F,0F,<notinuse>
+20,0F,<notinuse>
+21,0F,<notinuse>
+22,0F,<notinuse>
+23,0F,<notinuse>
+24,0F,<notinuse>
+25,0F,<notinuse>
+26,0F,<notinuse>
+27,0F,<notinuse>
+28,0F,<notinuse>
+29,0F,<notinuse>
+2A,0F,<notinuse>
+2B,0F,<notinuse>
+2C,0F,<notinuse>
+2D,0F,<notinuse>
+2E,0F,<notinuse>
+2F,0F,<notinuse>
+30,0F,<notinuse>
+31,0F,<notinuse>
+32,0F,<notinuse>
+33,0F,<notinuse>
+34,0F,<notinuse>
+35,0F,<notinuse>
+36,0F,<notinuse>
+37,0F,<notinuse>
+38,0F,<notinuse>
+39,0F,<notinuse>
+3A,0F,<notinuse>
+3B,0F,<notinuse>
+3C,0F,<notinuse>
+3D,0F,Hegui Fruit
+3E,0F,Beast Meat
+3F,0F,Soft Meat
+40,0F,Hard Meat
+41,0F,Tail Meat
+42,0F,Bird Meat
+43,0F,Bird Egg
+44,0F,Fish Meat
+45,0F,Demonfish Liver
+46,0F,Crustacean Meat
+47,0F,Magotato
+48,0F,Subera
+49,0F,Gintoko
+4A,0F,Rice
+4B,0F,Bug Meat
+4C,0F,Hamashirama Meat
+4D,0F,Rare Fish Meat
+4E,0F,Corpse-weeper Meat
+4F,0F,Shroombear Meat
+50,0F,Demonfish Meat
+51,0F,<notinuse>
+52,0F,<notinuse>
+53,0F,<notinuse>
