@@ -159,6 +159,10 @@ E4,10,Fishing Pole
 E5,10,Expert Fishing Pole
 E6,10,<notinuse>
 
+
+FA,10,<notinuse>
+FB,10,<cutitem#191>
+FC,10,<cutitem#192>
 FD,10,<cutitem#193>
 FE,10,<cutitem#194>
 FF,10,<cutitem#195>
@@ -174,7 +178,32 @@ FF,10,<cutitem#195>
 09,11,<notinuse>
 
 0A,11,Small Smoke Signal
+0B,11,Smoke Signal
+0C,11,Small Torch
+0D,11,Torch
+0E,11,<notinuse>
+0F,11,Red Antidote
+10,11,Blue Antidote
+11,11,Paralysis Antidote
+12,11,<notinuse>
+13,11,Mail Balloon
+14,11,<notinuse>
+15,11,Broken Mail Balloon
 16,11,Lugworm
+17,11,Shrimp
+18,11,Small Fry
+19,11,Limber Scales
+1A,11,Shellfish Shell
+1B,11,Strong Scales
+1C,11,Gas Spore
+
+1D,11,<notinuse>
+
+1E,11,Blazing Sun
+1F,11,Blazing Sun EX
+20,11,Raging Heavens
+21,11,<notinuse>
+
 
 
 5D,12,Hard Stone
