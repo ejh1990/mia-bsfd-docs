@@ -1,10 +1,34 @@
 byte1Item,byte2Cat,itemName
 B9,0B,Sun Sphere (1st Layer)
 BA,0B,Scaled Umberella
+
 ED,0C,Rescuer Hat
 EE,0C,Agile Hat
+
+AC,0D,<notinuse>
 AD,0D,Cave Raider Jacket
+AE,0D,Mesh Jacket
+AF,0D,Scarlet Coat
+B0,0D,Warm Jacket
+B1,0D,EX Warm Coat
+B2,0D,Cook Jacket
+B3,0D,Feather Garb
+B4,0D,Bone Jacket
+B5,0D,Rescuer Jacket
+B6,0D,Agile Jacket
+B7,0D,Jacket (Dark)
+B8,0D,Mesh Jacket (Red)
+B9,0D,Ocean Coat
+BA,0D,Warm Jacket (Green)
+BB,0D,EX Warm Coat (Red)
+BC,0D,Cook Jacket (Green)
+BD,0D,Feather Garb (Dark)
+BE,0D,Bone Jacket (Red)
+
 75,0E,Cave Raider Shoes
+
+
+
 00,0F,<notinuse>
 01,0F,<notinuse>
 02,0F,<notinuse>
@@ -91,6 +115,22 @@ AD,0D,Cave Raider Jacket
 53,0F,<notinuse>
 54,0F,<notinuse>
 55,0F,<notinuse>
+
+
+
+DF,10,<notinuse>
+E0,10,Super Lightweight Piton
+E1,10,Lightweight Piton
+E2,10,Piton
+E3,10,Lt Fishing Pole
+E4,10,Fishing Pole
+E5,10,Expert Fishing Pole
+E6,10,<notinuse>
+
 16,11,Lugworm
-0A,11,Small Smoke Signal
+0A,11,Small Smoke Signall
+
 5D,12,Hard Stone
+
+B3,18,Cooked Tail Meat
+B4,18,Cooked Bird
