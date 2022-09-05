@@ -2,8 +2,37 @@ byte1Item,byte2Cat,itemName
 B9,0B,Sun Sphere (1st Layer)
 BA,0B,Scaled Umberella
 
+E4,0C,<notinuse>
+E5,0C,Cave Raider Hat
+E6,0C,Meshed Hat
+E7,0C,Scarlet Hat
+E8,0C,Warm Hat
+E9,0C,EX Warm Hat
+EA,0C,Cook Hat
+EB,0C,Feather Hat
+EC,0C,Bone Helmet
 ED,0C,Rescuer Hat
 EE,0C,Agile Hat
+EF,0C,Cave Raider Hat (Dark)
+F0,0C,Meshed Hat (Red)
+F1,0C,Ocean Hat
+F2,0C,Warm Hat (Green)
+F3,0C,EX Warm Hat (Red)
+F4,0C,Cook Hat (Green)
+F5,0C,Feather Hat (Dark)
+F6,0C,Bone Helmet (Green)
+F7,0C,Rescuer Hat (Blue)
+F8,0C,Agile Hat (Dark)
+F9,0C,Feather Helmet
+FA,0C,Old Cave Raider Hat
+FB,0C,Patchwork Hat
+FC,0C,Reg's Helmet
+FD,0C,Hablog's Hat
+FE,0C,Prushka's Hat
+FF,0C,Nanachi's Helmet
+00,0D,Ozen's Umberella
+01,0D,<notinuse>
+
 
 AC,0D,<notinuse>
 AD,0D,Cave Raider Jacket
@@ -24,6 +53,9 @@ BB,0D,EX Warm Coat (Red)
 BC,0D,Cook Jacket (Green)
 BD,0D,Feather Garb (Dark)
 BE,0D,Bone Jacket (Red)
+BF,0D,Rescuer Jacket (Blue)
+C0,0D,Agile Jacket (Dark)
+C1,0D,<notinuse>
 
 75,0E,Cave Raider Shoes
 
