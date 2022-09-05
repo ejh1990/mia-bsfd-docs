@@ -2,6 +2,9 @@ byte1Item,byte2Cat,itemName
 B9,0B,Sun Sphere (1st Layer)
 BA,0B,Scaled Umberella
 
+
+E2,0C,<notinuse>
+E3,0C,<notinuse>
 E4,0C,<notinuse>
 E5,0C,Cave Raider Hat
 E6,0C,Meshed Hat
@@ -32,8 +35,14 @@ FE,0C,Prushka's Hat
 FF,0C,Nanachi's Helmet
 00,0D,Ozen's Umberella
 01,0D,<notinuse>
+02,0D,<unusedHat--Equipable>
+03,0D,Marulk's Hat
+04,0D,<unusedHat53--Equipable>
+05,0D,<notinuse>
+06,0D,<notinuse>
+07,0D,<notinuse>
 
-
+AB,0D,<notinuse>
 AC,0D,<notinuse>
 AD,0D,Cave Raider Jacket
 AE,0D,Mesh Jacket
@@ -56,6 +65,7 @@ BE,0D,Bone Jacket (Red)
 BF,0D,Rescuer Jacket (Blue)
 C0,0D,Agile Jacket (Dark)
 C1,0D,<notinuse>
+C2,0D,<notinuse>
 
 75,0E,Cave Raider Shoes
 
@@ -148,8 +158,12 @@ C1,0D,<notinuse>
 54,0F,<notinuse>
 55,0F,<notinuse>
 
-
-
+D9,10,<notinuse>
+DA,10,<notinuse>
+DB,10,<notinuse>
+DC,10,Ottobas Feces
+DD,10,Monocular
+DE,10,Telescope
 DF,10,<notinuse>
 E0,10,Super Lightweight Piton
 E1,10,Lightweight Piton
@@ -203,6 +217,7 @@ FF,10,<cutitem#195>
 1F,11,Blazing Sun EX
 20,11,Raging Heavens
 21,11,<notinuse>
+22,11,<notinuse>
 
 
 
