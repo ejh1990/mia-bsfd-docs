@@ -1,227 +1,354 @@
-byte1Item,byte2Cat,itemName
-B9,0B,Sun Sphere (1st Layer)
-BA,0B,Scaled Umberella
-
-
-E2,0C,<notinuse>
-E3,0C,<notinuse>
-E4,0C,<notinuse>
-E5,0C,Cave Raider Hat
-E6,0C,Meshed Hat
-E7,0C,Scarlet Hat
-E8,0C,Warm Hat
-E9,0C,EX Warm Hat
-EA,0C,Cook Hat
-EB,0C,Feather Hat
-EC,0C,Bone Helmet
-ED,0C,Rescuer Hat
-EE,0C,Agile Hat
-EF,0C,Cave Raider Hat (Dark)
-F0,0C,Meshed Hat (Red)
-F1,0C,Ocean Hat
-F2,0C,Warm Hat (Green)
-F3,0C,EX Warm Hat (Red)
-F4,0C,Cook Hat (Green)
-F5,0C,Feather Hat (Dark)
-F6,0C,Bone Helmet (Green)
-F7,0C,Rescuer Hat (Blue)
-F8,0C,Agile Hat (Dark)
-F9,0C,Feather Helmet
-FA,0C,Old Cave Raider Hat
-FB,0C,Patchwork Hat
-FC,0C,Reg's Helmet
-FD,0C,Hablog's Hat
-FE,0C,Prushka's Hat
-FF,0C,Nanachi's Helmet
-00,0D,Ozen's Umberella
-01,0D,<notinuse>
-02,0D,<unusedHat--Equipable>
-03,0D,Marulk's Hat
-04,0D,<unusedHat53--Equipable>
-05,0D,<notinuse>
-06,0D,<notinuse>
-07,0D,<notinuse>
-
-AB,0D,<notinuse>
-AC,0D,<notinuse>
-AD,0D,Cave Raider Jacket
-AE,0D,Mesh Jacket
-AF,0D,Scarlet Coat
-B0,0D,Warm Jacket
-B1,0D,EX Warm Coat
-B2,0D,Cook Jacket
-B3,0D,Feather Garb
-B4,0D,Bone Jacket
-B5,0D,Rescuer Jacket
-B6,0D,Agile Jacket
-B7,0D,Jacket (Dark)
-B8,0D,Mesh Jacket (Red)
-B9,0D,Ocean Coat
-BA,0D,Warm Jacket (Green)
-BB,0D,EX Warm Coat (Red)
-BC,0D,Cook Jacket (Green)
-BD,0D,Feather Garb (Dark)
-BE,0D,Bone Jacket (Red)
-BF,0D,Rescuer Jacket (Blue)
-C0,0D,Agile Jacket (Dark)
-C1,0D,<notinuse>
-C2,0D,<notinuse>
-
-75,0E,Cave Raider Shoes
-
-
-
-00,0F,<notinuse>
-01,0F,<notinuse>
-02,0F,<notinuse>
-03,0F,<notinuse>
-04,0F,<notinuse>
-05,0F,<notinuse>
-06,0F,<notinuse>
-07,0F,<notinuse>
-08,0F,<notinuse>
-09,0F,<notinuse>
-0A,0F,<notinuse>
-0B,0F,<notinuse>
-0C,0F,<notinuse>
-0D,0F,<notinuse>
-0E,0F,<notinuse>
-0F,0F,<notinuse>
-10,0F,<notinuse>
-11,0F,<notinuse>
-12,0F,<notinuse>
-13,0F,<notinuse>
-14,0F,<notinuse>
-15,0F,<notinuse>
-16,0F,<notinuse>
-17,0F,<notinuse>
-18,0F,<notinuse>
-19,0F,<notinuse>
-1A,0F,<notinuse>
-1B,0F,<notinuse>
-1C,0F,<notinuse>
-1D,0F,<notinuse>
-1E,0F,<notinuse>
-1F,0F,<notinuse>
-20,0F,<notinuse>
-21,0F,<notinuse>
-22,0F,<notinuse>
-23,0F,<notinuse>
-24,0F,<notinuse>
-25,0F,<notinuse>
-26,0F,<notinuse>
-27,0F,<notinuse>
-28,0F,<notinuse>
-29,0F,<notinuse>
-2A,0F,<notinuse>
-2B,0F,<notinuse>
-2C,0F,<notinuse>
-2D,0F,<notinuse>
-2E,0F,<notinuse>
-2F,0F,<notinuse>
-30,0F,<notinuse>
-31,0F,<notinuse>
-32,0F,<notinuse>
-33,0F,<notinuse>
-34,0F,<notinuse>
-35,0F,<notinuse>
-36,0F,<notinuse>
-37,0F,<notinuse>
-38,0F,<notinuse>
-39,0F,<notinuse>
-3A,0F,<notinuse>
-3B,0F,<notinuse>
-3C,0F,<notinuse>
-3D,0F,Hegui Fruit
-3E,0F,Beast Meat
-3F,0F,Soft Meat
-40,0F,Hard Meat
-41,0F,Tail Meat
-42,0F,Bird Meat
-43,0F,Bird Egg
-44,0F,Fish Meat
-45,0F,Demonfish Liver
-46,0F,Crustacean Meat
-47,0F,Magotato
-48,0F,Subera
-49,0F,Gintoko
-4A,0F,Rice
-4B,0F,Bug Meat
-4C,0F,Hamashirama Meat
-4D,0F,Rare Fish Meat
-4E,0F,Corpse-weeper Meat
-4F,0F,Shroombear Meat
-50,0F,Demonfish Meat
-51,0F,<notinuse>
-52,0F,<notinuse>
-53,0F,<notinuse>
-54,0F,<notinuse>
-55,0F,<notinuse>
-
-D9,10,<notinuse>
-DA,10,<notinuse>
-DB,10,<notinuse>
-DC,10,Ottobas Feces
-DD,10,Monocular
-DE,10,Telescope
-DF,10,<notinuse>
-E0,10,Super Lightweight Piton
-E1,10,Lightweight Piton
-E2,10,Piton
-E3,10,Lt Fishing Pole
-E4,10,Fishing Pole
-E5,10,Expert Fishing Pole
-E6,10,<notinuse>
-
-
-FA,10,<notinuse>
-FB,10,<cutitem#191>
-FC,10,<cutitem#192>
-FD,10,<cutitem#193>
-FE,10,<cutitem#194>
-FF,10,<cutitem#195>
-00,11,<cutitem#196>
-01,11,<notinuse>
-02,11,<notinuse>
-03,11,<notinuse>
-04,11,<notinuse>
-05,11,<notinuse>
-06,11,<notinuse>
-07,11,<notinuse>
-08,11,<notinuse>
-09,11,<notinuse>
-
-0A,11,Small Smoke Signal
-0B,11,Smoke Signal
-0C,11,Small Torch
-0D,11,Torch
-0E,11,<notinuse>
-0F,11,Red Antidote
-10,11,Blue Antidote
-11,11,Paralysis Antidote
-12,11,<notinuse>
-13,11,Mail Balloon
-14,11,<notinuse>
-15,11,Broken Mail Balloon
-16,11,Lugworm
-17,11,Shrimp
-18,11,Small Fry
-19,11,Limber Scales
-1A,11,Shellfish Shell
-1B,11,Strong Scales
-1C,11,Gas Spore
-
-1D,11,<notinuse>
-
-1E,11,Blazing Sun
-1F,11,Blazing Sun EX
-20,11,Raging Heavens
-21,11,<notinuse>
-22,11,<notinuse>
-
-
-
-5D,12,Hard Stone
-
-B3,18,Cooked Tail Meat
-B4,18,Cooked Bird
+id,base16,base16le,byte1,byte2,pakName,igName,notes
+001,0001,0100,01,00,Pickel,,
+3001,0BB9,B90B,B9,0B,Sphere,Sun Sphere (1st Layer) ,
+3002,0BBA,BA0B,BA,0B,ScaleUmbrella,Scaled Umberella,
+3003,0BBB,BB0B,BB,0B,BlazeReap,,
+3005,0BBD,BD0B,BD,0B,Shpere,,
+3007,0BBF,BF0B,BF,0B,Sphere,,
+3008,0BC0,C00B,C0,0B,Sphere,,
+3009,0BC1,C10B,C1,0B,Sphere,,
+3011,0BC3,C30B,C3,0B,Hat,,
+3012,0BC4,C40B,C4,0B,Hat,,
+3013,0BC5,C50B,C5,0B,Hat,,
+3014,0BC6,C60B,C6,0B,Glove,,
+3015,0BC7,C70B,C7,0B,Glove,,
+3016,0BC8,C80B,C8,0B,Glove,,
+3018,0BCA,CA0B,CA,0B,Tops,,
+3019,0BCB,CB0B,CB,0B,Tops,,
+3020,0BCC,CC0B,CC,0B,Tops,,
+3021,0BCD,CD0B,CD,0B,Handgun,,
+3022,0BCE,CE0B,CE,0B,Handgun,,
+3023,0BCF,CF0B,CF,0B,Handgun,,
+3024,0BD0,D00B,D0,0B,Bow,,
+3025,0BD1,D10B,D1,0B,Bow,,
+3026,0BD2,D20B,D2,0B,Bow,,
+3027,0BD3,D30B,D3,0B,Pickel,,
+3028,0BD4,D40B,D4,0B,Pickel,,
+3029,0BD5,D50B,D5,0B,Machete,,
+3030,0BD6,D60B,D6,0B,Machete,,
+3031,0BD7,D70B,D7,0B,Machete,,
+3032,0BD8,D80B,D8,0B,Pickel,,
+3033,0BD9,D90B,D9,0B,Bottoms,,
+3034,0BDA,DA0B,DA,0B,Bottoms,,
+3036,0BDC,DC0B,DC,0B,Bottoms,,
+3040,0BE0,E00B,E0,0B,Boot,,
+3041,0BE1,E10B,E1,0B,Boot,,
+3042,0BE2,E20B,E2,0B,Boot,,
+3101,0C1D,1D0C,1D,0C,Bullet,,
+3102,0C1E,1E0C,1E,0C,Bullet,,
+3103,0C1F,1F0C,1F,0C,Bullet,,
+3104,0C20,200C,20,0C,Bullet,,
+3201,0C81,810C,81,0C,Arrow,,
+3202,0C82,820C,82,0C,Arrow,,
+3203,0C83,830C,83,0C,Arrow,,
+3204,0C84,840C,84,0C,Arrow,,
+3205,0C85,850C,85,0C,Arrow,,
+3206,0C86,860C,86,0C,Arrow,,
+3301,0CE5,E50C,E5,0C,Hat,Cave Raider Hat ,
+3302,0CE6,E60C,E6,0C,Hat,Meshed Hat ,
+3303,0CE7,E70C,E7,0C,Hat,Scarlet Hat ,
+3304,0CE8,E80C,E8,0C,Hat,Warm Hat ,
+3305,0CE9,E90C,E9,0C,Hat,EX Warm Hat ,
+3306,0CEA,EA0C,EA,0C,Hat,Cook Hat ,
+3307,0CEB,EB0C,EB,0C,Hat,Feather Hat ,
+3308,0CEC,EC0C,EC,0C,Hat,Bone Helmet ,
+3309,0CED,ED0C,ED,0C,Hat,Rescuer Hat ,
+3310,0CEE,EE0C,EE,0C,Hat,Agile Hat ,
+3311,0CEF,EF0C,EF,0C,Hat,Cave Raider Hat (Dark) ,
+3312,0CF0,F00C,F0,0C,Hat,Meshed Hat (Red) ,
+3313,0CF1,F10C,F1,0C,Hat,Ocean Hat ,
+3314,0CF2,F20C,F2,0C,Hat,Warm Hat (Green) ,
+3315,0CF3,F30C,F3,0C,Hat,EX Warm Hat (Red) ,
+3316,0CF4,F40C,F4,0C,Hat,Cook Hat (Green) ,
+3317,0CF5,F50C,F5,0C,Hat,Feather Hat (Dark) ,
+3318,0CF6,F60C,F6,0C,Hat,Bone Helmet (Green) ,
+3319,0CF7,F70C,F7,0C,Hat,Rescuer Hat (Blue) ,
+3320,0CF8,F80C,F8,0C,Hat,Agile Hat (Dark) ,
+3321,0CF9,F90C,F9,0C,Hat,Feather Helmet ,
+3322,0CFA,FA0C,FA,0C,Hat,Old Cave Raider Hat ,
+3323,0CFB,FB0C,FB,0C,Hat,Patchwork Hat ,
+3324,0CFC,FC0C,FC,0C,Hat,Reg's Helmet ,
+3325,0CFD,FD0C,FD,0C,Hat,Hablog's Hat ,
+3326,0CFE,FE0C,FE,0C,Hat,Prushka's Hat ,
+3327,0CFF,FF0C,FF,0C,Hat,Nanachi's Helmet ,
+3328,0D00,000D,00,0D,Hat,Ozen's Umberella ,
+3330,0D02,020D,02,0D,Hat,x,cut
+3331,0D03,030D,03,0D,Hat,Marulk's Hat ,
+3332,0D04,040D,04,0D,x,x,cut; not in main dir
+3401,0D49,490D,49,0D,Glove,,
+3402,0D4A,4A0D,4A,0D,Glove,,
+3403,0D4B,4B0D,4B,0D,Glove,,
+3404,0D4C,4C0D,4C,0D,Glove,,
+3405,0D4D,4D0D,4D,0D,Glove,,
+3406,0D4E,4E0D,4E,0D,Glove,,
+3407,0D4F,4F0D,4F,0D,Glove,,
+3408,0D50,500D,50,0D,Glove,,
+3409,0D51,510D,51,0D,Glove,,
+3410,0D52,520D,52,0D,Glove,,
+3411,0D53,530D,53,0D,Glove,,
+3412,0D54,540D,54,0D,Glove,,
+3413,0D55,550D,55,0D,Glove,,
+3414,0D56,560D,56,0D,Glove,,
+3415,0D57,570D,57,0D,Glove,,
+3416,0D58,580D,58,0D,Glove,,
+3417,0D59,590D,59,0D,Glove,,
+3418,0D5A,5A0D,5A,0D,Glove,,
+3419,0D5B,5B0D,5B,0D,Glove,,
+3420,0D5C,5C0D,5C,0D,Glove,,
+3501,0DAD,AD0D,AD,0D,Tops,Cave Raider Jacket ,
+3502,0DAE,AE0D,AE,0D,Tops,Mesh Jacket ,
+3503,0DAF,AF0D,AF,0D,Tops,Scarlet Coat ,
+3504,0DB0,B00D,B0,0D,Tops,Warm Jacket ,
+3505,0DB1,B10D,B1,0D,Tops,EX Warm Coat ,
+3506,0DB2,B20D,B2,0D,Tops,Cook Jacket ,
+3507,0DB3,B30D,B3,0D,Tops,Feather Garb ,
+3508,0DB4,B40D,B4,0D,Tops,Bone Jacket ,
+3509,0DB5,B50D,B5,0D,Tops,Rescuer Jacket ,
+3510,0DB6,B60D,B6,0D,Tops,Agile Jacket ,
+3511,0DB7,B70D,B7,0D,Tops,Jacket (Dark) ,
+3512,0DB8,B80D,B8,0D,Tops,Mesh Jacket (Red) ,
+3513,0DB9,B90D,B9,0D,Tops,Ocean Coat ,
+3514,0DBA,BA0D,BA,0D,Tops,Warm Jacket (Green) ,
+3515,0DBB,BB0D,BB,0D,Tops,EX Warm Coat (Red) ,
+3516,0DBC,BC0D,BC,0D,Tops,Cook Jacket (Green) ,
+3517,0DBD,BD0D,BD,0D,Tops,Feather Garb (Dark) ,
+3518,0DBE,BE0D,BE,0D,Tops,Bone Jacket (Red) ,
+3519,0DBF,BF0D,BF,0D,Tops,Rescuer Jacket (Blue) ,
+3520,0DC0,C00D,C0,0D,Tops,Agile Jacket (Dark) ,
+3601,0E11,110E,11,0E,Bottoms,,
+3602,0E12,120E,12,0E,Bottoms,,
+3603,0E13,130E,13,0E,Bottoms,,
+3604,0E14,140E,14,0E,Bottoms,,
+3605,0E15,150E,15,0E,Bottoms,,
+3606,0E16,160E,16,0E,Bottoms,,
+3607,0E17,170E,17,0E,Bottoms,,
+3608,0E18,180E,18,0E,Bottoms,,
+3609,0E19,190E,19,0E,Bottoms,,
+3610,0E1A,1A0E,1A,0E,Bottoms,,
+3611,0E1B,1B0E,1B,0E,Bottoms,,
+3612,0E1C,1C0E,1C,0E,Bottoms,,
+3613,0E1D,1D0E,1D,0E,Bottoms,,
+3614,0E1E,1E0E,1E,0E,Bottoms,,
+3615,0E1F,1F0E,1F,0E,Bottoms,,
+3616,0E20,200E,20,0E,Bottoms,,
+3617,0E21,210E,21,0E,Bottoms,,
+3618,0E22,220E,22,0E,Bottoms,,
+3619,0E23,230E,23,0E,Bottoms,,
+3620,0E24,240E,24,0E,Bottoms,,
+3701,0E75,750E,75,0E,Boot,Cave Raider Shoes ,
+3702,0E76,760E,76,0E,Boot,,
+3703,0E77,770E,77,0E,Boot,,
+3704,0E78,780E,78,0E,Boot,,
+3705,0E79,790E,79,0E,Boot,,
+3706,0E7A,7A0E,7A,0E,Boot,,
+3707,0E7B,7B0E,7B,0E,Boot,,
+3708,0E7C,7C0E,7C,0E,Boot,,
+3709,0E7D,7D0E,7D,0E,Boot,,
+3710,0E7E,7E0E,7E,0E,Boot,,
+3711,0E7F,7F0E,7F,0E,Boot,,
+3712,0E80,800E,80,0E,Boot,,
+3713,0E81,810E,81,0E,Boot,,
+3714,0E82,820E,82,0E,Boot,,
+3715,0E83,830E,83,0E,Boot,,
+3716,0E84,840E,84,0E,Boot,,
+3717,0E85,850E,85,0E,Boot,,
+3718,0E86,860E,86,0E,Boot,,
+3719,0E87,870E,87,0E,Boot,,
+3720,0E88,880E,88,0E,Boot,,
+3801,0ED9,D90E,D9,0E,BackPack_S,,
+3802,0EDA,DA0E,DA,0E,BackPack_M,,
+3803,0EDB,DB0E,DB,0E,BackPack_L,,
+3804,0EDC,DC0E,DC,0E,BackPack_Mate,,
+3901,0F3D,3D0F,3D,0F,Apple,Hegui Fruit ,
+3902,0F3E,3E0F,3E,0F,Meat01,Beast Meat ,
+3903,0F3F,3F0F,3F,0F,Meat02,Soft Meat ,
+3904,0F40,400F,40,0F,Meat03,Hard Meat ,
+3905,0F41,410F,41,0F,Meat04,Tail Meat ,
+3906,0F42,420F,42,0F,Meat05,Bird Meat ,
+3907,0F43,430F,43,0F,x,Bird Egg ,
+3908,0F44,440F,44,0F,Fishmeat,Fish Meat ,
+3909,0F45,450F,45,0F,Fishgut,Demonfish Liver ,
+3910,0F46,460F,46,0F,LobsterMeat,Crustacean Meat ,
+3911,0F47,470F,47,0F,x,Magotato ,not in main dir
+3912,0F48,480F,48,0F,x,Subera,not in main dir
+3913,0F49,490F,49,0F,x,Gintoko,not in main dir
+3914,0F4A,4A0F,4A,0F,x,Rice,not in main dir
+3915,0F4B,4B0F,4B,0F,InsectBody,Bug Meat ,not in main dir
+3916,0F4C,4C0F,4C,0F,x,Hamashirama Meat,not in main dir
+3917,0F4D,4D0F,4D,0F,x,Rare Fish Meat,not in main dir
+3918,0F4E,4E0F,4E,0F,x,Corpse-weeper Meat,not in main dir
+3919,0F4F,4F0F,4F,0F,x,Shroombear Meat,not in main dir
+3920,0F50,500F,50,0F,x,Demonfish Meat,not in main dir
+4091,0FFB,FB0F,FB,0F,Splint,,
+4301,10CD,CD10,CD,10,Compass,,
+4302,10CE,CE10,CE,10,Rope,,
+4303,10CF,CF10,CF,10,Antidote,,
+4304,10D0,D010,D0,10,Mushroom,,
+4306,10D2,D210,D2,10,Bandage,,
+4307,10D3,D310,D3,10,Whistle,,
+4308,10D4,D410,D4,10,Whistle,,
+4309,10D5,D510,D5,10,Whistle,,
+4310,10D6,D610,D6,10,Whistle,,
+4311,10D7,D710,D7,10,YourWorth,,
+4313,10D9,D910,D9,10,Whistle,,
+4316,10DC,DC10,DC,10,OttobusFecal,Ottobas Feces ,
+4317,10DD,DD10,DD,10,Monocle,Monocular ,
+4318,10DE,DE10,DE,10,Monocle,Telescope ,
+4320,10E0,E010,E0,10,Haken,Super Lightweight Pito ,
+4321,10E1,E110,E1,10,Haken,Lightweight Piton ,
+4322,10E2,E210,E2,10,Haken,Piton ,
+4323,10E3,E310,E3,10,FishingRod,Lt Fishing Pole ,
+4324,10E4,E410,E4,10,FishingRod,Fishing Pole ,
+4325,10E5,E510,E5,10,FishingRod,Expert Fishing Pole ,
+4327,10E7,E710,E7,10,Deeppot,,
+4328,10E8,E810,E8,10,Pan,,
+4332,10EC,EC10,EC,10,Aroma,,
+4334,10EE,EE10,EE,10,PictureFrame,,
+4336,10F0,F010,F0,10,Canteen,,
+4338,10F2,F210,F2,10,Tent01,,
+4339,10F3,F310,F3,10,Tent02,,
+4340,10F4,F410,F4,10,Ten0t3,,
+4341,10F5,F510,F5,10,Tent04,,
+4342,10F6,F610,F6,10,Tent05,,
+4343,10F7,F710,F7,10,Tent06,,
+4344,10F8,F810,F8,10,Tent07,,
+4346,10FA,FA10,FA,10,LaundryBag,,
+4353,1101,0111,01,11,MusicBox,,
+4362,110A,0A11,0A,11,SmokeCandle,Small Smoke Signal ,
+4363,110B,0B11,0B,11,SmokeCandle,Smoke Signal ,
+4364,110C,0C11,0C,11,Torch,Small Torch ,
+4365,110D,0D11,0D,11,Torch,Torch ,
+4366,110E,0E11,0E,11,Marking,,
+4367,110F,0F11,0F,11,x,Red Antidote,
+4368,1110,1011,10,11,x,Blue Antidote,
+4369,1111,1111,11,11,x,Paralysis Antidote,
+4371,1113,1311,13,11,InformShip,Mail Balloon ,
+4372,1114,1411,14,11,BrokenInformShip,x,cut version
+4373,1115,1511,15,11,x,Broken Mail Balloon ,not in main dir
+4374,1116,1611,16,11,Sandworm,Lugworm,
+4375,1117,1711,17,11,Shrimp,Shrimp ,
+4376,1118,1811,18,11,Baitfish,Small Fry ,
+4377,1119,1911,19,11,Snare,Limber Scales ,
+4378,111A,1A11,1A,11,Trap,Shellfish Shell ,
+4379,111B,1B11,1B,11,FishingBasket,Strong Scale ,
+4380,111C,1C11,1C,11,Spore,Gas Spore ,
+4382,111E,1E11,1E,11,Handgun,Blazing Sun,?
+4382,111E,1E11,1E,11,Rifle,Blazing Sun,?
+4383,111F,1F11,1F,11,Handgun,Blazing Sun EX ,?
+4384,1120,2011,20,11,Handgun,Raging Heavens ,?
+4389,1125,2511,25,11,Bow,,
+4390,1126,2611,26,11,Bow,,
+4391,1127,2711,27,11,Bow,,
+4396,112C,2C11,2C,11,Pickel,,
+4397,112D,2D11,2D,11,Pickel,,
+4398,112E,2E11,2E,11,Pickel,,
+4399,112F,2F11,2F,11,Pickel,,
+4400,1130,3011,30,11,Pickel,,
+4401,1131,3111,31,11,Pickel,,
+4402,1132,3211,32,11,Pickel,,
+4403,1133,3311,33,11,Machete,,
+4404,1134,3411,34,11,Machete,,
+4405,1135,3511,35,11,Machete,,
+4406,1136,3611,36,11,Machete,,
+4407,1137,3711,37,11,Machete,,
+4408,1138,3811,38,11,Machete,,
+4409,1139,3911,39,11,Machete,,
+4623,120F,0F12,0F,12,Whistle,,
+4803,12C3,C312,C3,12,Arrow,,
+4804,12C4,C412,C4,12,Handgun,,
+4805,12C5,C512,C5,12,Handgun,,
+4806,12C6,C612,C6,12,Bow,,
+4807,12C7,C712,C7,12,Pickel,,
+4808,12C8,C812,C8,12,Pickel,,
+4809,12C9,C912,C9,12,Pickel,,
+4810,12CA,CA12,CA,12,Machete,,
+4911,132F,2F13,2F,13,Relic,,
+4916,1334,3413,34,13,TrainingTent,,
+5000,1388,8813,88,13,EventItem,,
+5001,1389,8913,89,13,EventItem,,
+5002,138A,8A13,8A,13,EventItem,,
+5003,138B,8B13,8B,13,Whistle,,
+5004,138C,8C13,8C,13,EventItem,,
+5005,138D,8D13,8D,13,BackpackL,,
+5005,138D,8D13,8D,13,Corpse,,
+5006,138E,8E13,8E,13,Hammer,,
+5008,1390,9013,90,13,Letter,,
+5009,1391,9113,91,13,Bandage,,
+5011,1393,9313,93,13,Rock,,
+5012,1394,9413,94,13,Food,,
+5013,1395,9513,95,13,Bed,,
+5014,1396,9613,96,13,Scalpel,,
+5015,1397,9713,97,13,BodyParts,,
+5016,1398,9813,98,13,BurnMarks,,
+5017,1399,9913,99,13,BakedOttobusFecal,,
+5018,139A,9A13,9A,13,Eye,,
+5019,139B,9B13,9B,13,ElectricChair,,
+5020,139C,9C13,9C,13,Whistle,,
+5021,139D,9D13,9D,13,Whistle,,
+5022,139E,9E13,9E,13,TiareWhistle,,
+5023,139F,9F13,9F,13,Memento,,
+5024,13A0,A013,A0,13,Backpack,,
+5025,13A1,A113,A1,13,Pen,,
+5026,13A2,A213,A2,13,Note,,
+5027,13A3,A313,A3,13,Bed,,
+5028,13A4,A413,A4,13,EyeBlood,,
+5029,13A5,A513,A5,13,RegCheek,,
+5030,13A6,A613,A6,13,RegTears,,
+5033,13A9,A913,A9,13,Branch,,
+5034,13AA,AA13,AA,13,Diary,,
+5035,13AB,AB13,AB,13,GangWayBullet,,
+6010,177A,7A17,7A,17,Food,,
+6020,1784,8417,84,17,Food,,
+6030,178E,8E17,8E,17,Food,,
+6040,1798,9817,98,17,Food,,
+6050,17A2,A217,A2,17,Food,,
+6060,17AC,AC17,AC,17,Food,,
+6070,17B6,B617,B6,17,Food,,
+6080,17C0,C017,C0,17,Food,,
+6090,17CA,CA17,CA,17,Food,,
+6100,17D4,D417,D4,17,Food,,
+6110,17DE,DE17,DE,17,Food,,
+6120,17E8,E817,E8,17,Food,,
+6130,17F2,F217,F2,17,Food,,
+6140,17FC,FC17,FC,17,Food,,
+6150,1806,0618,06,18,Food,,
+6160,1810,1018,10,18,Food,,
+6170,181A,1A18,1A,18,Food,,
+6180,1824,2418,24,18,Food,,
+6190,182E,2E18,2E,18,Food,,
+6200,1838,3818,38,18,Food,,
+6210,1842,4218,42,18,Food,,
+6220,184C,4C18,4C,18,Food,,
+6230,1856,5618,56,18,Food,,
+6240,1860,6018,60,18,Food,,
+6250,186A,6A18,6A,18,Food,,
+6320,18B0,B018,B0,18,Food,,
+6321,18B1,B118,B1,18,Food,,
+6322,18B2,B218,B2,18,Food,,
+6323,18B3,B318,B3,18,Food,Cooked Tail Meat ,
+6324,18B4,B418,B4,18,Food,Cooked Bird ,
+6325,18B5,B518,B5,18,Food,,
+6326,18B6,B618,B6,18,Food,,
+6327,18B7,B718,B7,18,Food,,
+6329,18B9,B918,B9,18,Food,,
+6330,18BA,BA18,BA,18,Food,,
+6331,18BB,BB18,BB,18,Food,,
+6332,18BC,BC18,BC,18,Food,,
+6333,18BD,BD18,BD,18,Food,,
+6334,18BE,BE18,BE,18,Food,,
+6335,18BF,BF18,BF,18,Food,,
+6343,18C7,C718,C7,18,Food,,
+6345,18C9,C918,C9,18,Food,,
+6346,18CA,CA18,CA,18,Food,,
+6347,18CB,CB18,CB,18,Food,,
+6349,18CD,CD18,CD,18,Food,,
+6414,190E,0E19,0E,19,Food,,
+6415,190F,0F19,0F,19,Food,,
+6416,1910,1019,10,19,Food,,
+6421,1915,1519,15,19,Food,,
+6510,196E,6E19,6E,19,Food,,
+6512,1970,7019,70,19,Food,,
+6513,1971,7119,71,19,Food,,
+6515,1973,7319,73,19,Food,,
+6610,19D2,D219,D2,19,Food,,
+6612,19D4,D419,D4,19,Food,,
